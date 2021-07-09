@@ -1,0 +1,27 @@
+[
+    {
+      "package": "NHSRdatasets",
+      "url": "https://github.com/nhs-r-community/NHSRdatasets",
+      "branch" : "main"
+    },
+    {
+      "package" : "NHSRplotthedots",
+      "url" : "https://github.com/nhs-r-community/NHSRplotthedots",
+      "branch" : "main"
+    },
+    {
+      "package": "NHStools",
+      "url": "https://github.com/nhs-r-community/NHStools",
+      "branch" : "main"
+    },
+    {
+      "package": "nhsrtheme",
+      "url": "https://github.com/nhs-r-community/nhsrtheme",
+      "branch" : "main"
+    },
+    {
+      "package": "shinyEndomineR",
+      "url": "https://github.com/nhs-r-community/shinyEndomineR",
+      "branch" : "main"
+    }
+]
