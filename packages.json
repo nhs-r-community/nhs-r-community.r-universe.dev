@@ -18,10 +18,5 @@
       "package": "nhsrtheme",
       "url": "https://github.com/nhs-r-community/nhsrtheme",
       "branch" : "main"
-    },
-    {
-      "package": "shinyEndomineR",
-      "url": "https://github.com/nhs-r-community/shinyEndomineR",
-      "branch" : "master"
     }
 ]
