@@ -15,7 +15,7 @@
       "branch" : "main"
     },
     {
-      "package": "nhsrtheme",
+      "package": "NHSRtheme",
       "url": "https://github.com/nhs-r-community/nhsrtheme",
       "branch" : "main"
     }
