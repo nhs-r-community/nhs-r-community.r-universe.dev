@@ -10,13 +10,18 @@
       "branch" : "main"
     },
     {
+      "package": "NHSRpopulation",
+      "url": "https://github.com/nhs-r-community/NHSRpopulation",
+      "branch" : "main"
+    },
+    {
       "package": "NHSRtools",
       "url": "https://github.com/nhs-r-community/NHSRtools",
       "branch" : "main"
     },
     {
       "package": "NHSRtheme",
-      "url": "https://github.com/nhs-r-community/nhsrtheme",
+      "url": "https://github.com/nhs-r-community/NHSRtheme",
       "branch" : "main"
     }
 ]
