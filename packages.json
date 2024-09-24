@@ -23,17 +23,17 @@
       "package": "NHSRtheme",
       "url": "https://github.com/nhs-r-community/NHSRtheme",
       "branch" : "main"
-    }
+    },
     {
       "package": "NHSRwaitinglist",
       "url": "https://github.com/nhs-r-community/NHSRwaitinglist",
       "branch" : "main"
-    }
+    },
     {
       "package": "pxtextmineR",
       "url": "https://github.com/nhs-r-community/pxtextmineR",
       "branch" : "main"
-    }
+    },
     {
       "package": "NHSRepisodes",
       "url": "https://github.com/nhs-r-community/NHSRepisodes",
