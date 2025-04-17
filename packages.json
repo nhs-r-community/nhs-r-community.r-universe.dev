@@ -30,6 +30,11 @@
       "branch" : "main"
     },
     {
+      "package": "FunnelPlotR",
+      "url": "https://github.com/nhs-r-community/FunnelPlotR",
+      "branch" : "main"
+    },
+    {
       "package": "pxtextmineR",
       "url": "https://github.com/nhs-r-community/pxtextmineR",
       "branch" : "main"
